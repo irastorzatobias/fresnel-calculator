@@ -19,24 +19,9 @@ const About = () => {
             pueden causar difracciones e interferencias que afectan la calidad
             de la señal.
           </p>
-          <ul className="list-disc list-inside mt-4">
-            <li>
-              <strong>Ver Televisión:</strong> Si un edificio alto está
-              bloqueando parte de la Zona Fresnel entre las antenas, la señal
-              podría ser débil.
-            </li>
-            <li>
-              <strong>Usar Wi-Fi:</strong> Las paredes u otros obstáculos pueden
-              interferir con la Zona Fresnel y reducir la velocidad de Internet.
-            </li>
-            <li>
-              <strong>Hablar por Teléfono Celular:</strong> Una montaña entre la
-              torre de telefonía móvil y tu teléfono podría causar mala
-              recepción.
-            </li>
-          </ul>
         </div>
       </div>
+      <p class="font-bold mt-4 text-right">Tobias Irastorza Rossia</p>
     </section>
   );
 };
